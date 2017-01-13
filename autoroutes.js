@@ -4,7 +4,7 @@ function Voiture(length, velocity, color) {
     this.velocity = velocity;
     this.voieCible = null;
     this.voie = null;
-    this.color = color;
+    this.color = color; 
     
     this.horsLimites = false;
     
